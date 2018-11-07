@@ -20,7 +20,7 @@ function donutChart() {
     var width,
         height,
         margin = {top: 10, right: 10, bottom: 10, left: 10},
-        colour = d3.scaleOrdinal().range(["#6d625e", "#602f1e", "#c91447", "#9e967c", "#1f404f", "#bab21a", "
+        colour = d3.scaleOrdinal().range(["#6d625e", "#602f1e", "#c91447", "#9e967c", "#1f404f", "#bab21a",
 Εμφάνιση τιμών χρωμάτων
 Σχόλια
 Αποτελέσματα ιστού
