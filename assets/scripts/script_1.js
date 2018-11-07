@@ -20,7 +20,53 @@ function donutChart() {
     var width,
         height,
         margin = {top: 10, right: 10, bottom: 10, left: 10},
-        colour = d3.scaleOrdinal().range(["#ab0fb1", "#c37c73", "#8e0808", "#202120", "#593c55", "#70676e", "#222d0b"]), // colour scheme
+        colour = d3.scaleOrdinal().range(["#6d625e", "#602f1e", "#c91447", "#9e967c", "#1f404f", "#bab21a", "
+Εμφάνιση τιμών χρωμάτων
+Σχόλια
+Αποτελέσματα ιστού
+#ab0fb1 Color Hex
+https://www.color-hex.com/color/ab0fb1
+Μετάφραση αυτής της σελίδας
+#ab0fb1 color RGB value is (171,15,177). #ab0fb1 hex color red value is 171, green value is 15 and the blue value of its RGB is 177. Cylindrical-coordinate ...
+#15b10f hex color - ColorHexa.com
+https://www.colorhexa.com/15b10f
+Μετάφραση αυτής της σελίδας
+15b10f hex color code information, schemes, description and conversion in RGB, HSL, HSV, CMYK, etc.
+#650969 hex color - ColorHexa.com
+https://www.colorhexa.com/650969 - Μετάφραση αυτής της σελίδας
+650969 hex color code information, schemes, description and conversion in RGB, HSL, HSV, CMYK, etc.
+#b10f15 hex color - ColorHexa.com
+https://www.colorhexa.com/b10f15
+Μετάφραση αυτής της σελίδας
+b10f15 hex color code information, schemes, description and conversion in RGB, HSL, HSV, CMYK, etc.
+#bc11c3 hex color - ColorHexa.com
+www.colorhexa.com/bc11c3
+Μετάφραση αυτής της σελίδας
+bc11c3 hex color code information, schemes, description and conversion in RGB, HSL, HSV, CMYK, etc.
+#b10fa1 (dark pink) info, conversion, color schemes and complementary.
+https://www.colorbook.io/hexcolors/view/b10fa1
+Μετάφραση αυτής της σελίδας
+Be picky and fine tune your color: colors very near to #b10fa1. #a10fb1 · #a60fb1 · #ab0fb1 · #b10fb1 · #b10fac · #b10fa6 · #b10fa1 · #b10f9c · #b10f96 · #b10f91.
+B10F14 CSS/HTML Color Code
+html-color.org/B10F14
+Μετάφραση αυτής της σελίδας
+Find the HTML color code, color conversions, css, color numbers, charts, harmonies, shades, tints, tones, color blindness simulator, monochromacy, dichromacy, ...
+A517AA CSS/HTML Color Code
+html-color.org/A517AA
+Μετάφραση αυτής της σελίδας
+Find the HTML color code, color conversions, css, color numbers, charts, harmonies, shades, tints, tones, color blindness simulator, monochromacy, dichromacy, ...
+Wallpaper solid color one colour single plain cyan #0d8a9f 768x1366
+https://www.xmple.com/.../solid-color-one-colour-single... - Μετάφραση αυτής της σελίδας
+wallpaper violet magenta squares checkered #710fb1 #ab0fb1 diagonal 50° 350px. wallpaper gingham dual brown striped tan saddle brown #d2b48c #8b4513 ...
+Wallpaper rhombus red diamond lozenge yellow #b1475a #637102 ...
+https://www.xmple.com/.../rhombus-red-diamond-lozen...
+Μετάφραση αυτής της σελίδας
+wallpaper dots cyan spots polka magenta #ab0fb1 #22faf2 285° 125px 322px · wallpaper blue white stripes lines streaks medium blue #0000cd #ffffff vertical ...
+Πλοήγηση στις σελίδες
+1	
+2
+Επόμενη
+"]), // colour scheme
         variable, // value in data that will dictate proportions on chart
         category, // compare data by
         padAngle, // effectively dictates the gap between slices
